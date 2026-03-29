@@ -49,7 +49,7 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
 
-<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/6b781f60056a9bc6db7436cfe0bf905bd496818a/image/certificate_natthanan-bo-kkumail-com.pdf" style="width: 80%; height: auto;"/>
+<img src ="https://raw.githubusercontent.com/Nattha-nan/Network-Portfolio/9c1b7ec29aaa5ec56e40d08b8aa06f9e38c53b6c/image/certificate_natthanan-bo-kkumail-com.pdf" style="width: 80%; height: auto;"/>
 
 ---
 
