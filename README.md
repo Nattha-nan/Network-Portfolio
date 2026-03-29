@@ -1,9 +1,9 @@
 # Network-Portfolio
-นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 sec.1
+นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 Section 01
 
 Email : natthanan.bo@kkumail.com
 
-# Portfolio – Networks
+## Portfolio – Networks
 
 This repository contains my assignments, labs, projects, and certificates related to Computer Networks and Network Programming.
 
@@ -49,7 +49,7 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 ## 📜 Certificate
 
-Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
+**From : Pre1 Computer Networks – Getting Started with Cisco Packet Tracer**
 
 <img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/ca0743b4a83a1110e7a3d2dcbf1bbe53e33adbbc/image/certificate.png" style="width: 80%; height: auto;"/>
 
