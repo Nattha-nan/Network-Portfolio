@@ -11,22 +11,22 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 | Assignment | Document Link | PDF File |
 |-----------|---------------|----------|
-| Essay | https://docs.google.com/document/d/1JV9S-nem8Yh6NNtPzssQHXAGxmui8CTheAEoF0_GUco/edit?usp=sharing | work files/personal essay.pdf |
-| Assignment 2 (Topology) | https://docs.google.com/document/d/1R7LLNoZ0NXk4MEfzwQXmQh56v_3Wkd-fE12EuVDecIM/edit?usp=sharing | - |
-| Assignment 3 (Not Simple) | https://docs.google.com/document/d/11Ki3UfJ_93h6tWZFWwPnmqbDpsPUor3YYq6pJAZ0Gt0/edit?usp=sharing | - |
-| Assignment 4 (TCP-UDP) | https://docs.google.com/document/d/1Hh0BoJTWSq_3GOx9M2MRKap7qGlYfwlQouAtwDVdk2E/edit?usp=sharing | - |
+| Essay | [personal essay](https://docs.google.com/document/d/1JV9S-nem8Yh6NNtPzssQHXAGxmui8CTheAEoF0_GUco/edit?usp=sharing) | [personal essay pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/personal%20essay.pdf) |
+| Assignment 2 (Topology) | [Topology](https://docs.google.com/document/d/1R7LLNoZ0NXk4MEfzwQXmQh56v_3Wkd-fE12EuVDecIM/edit?usp=sharing) | [Topology pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/Assignment%202.pdf) |
+| Assignment 3 (Not Simple) | [Not Simple](https://docs.google.com/document/d/11Ki3UfJ_93h6tWZFWwPnmqbDpsPUor3YYq6pJAZ0Gt0/edit?usp=sharing) | [Not Simple pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/Assignment%203.pdf) |
+| Assignment 4 (TCP-UDP) | [TCP-UDP](https://docs.google.com/document/d/1Hh0BoJTWSq_3GOx9M2MRKap7qGlYfwlQouAtwDVdk2E/edit?usp=sharing) | [TCP-UDP pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/Assignment%204.pdf) |
 
 ---
 
 ## 🧪 Labs 1–5
 
-| Lab | Document Link |
-|-----|---------------|
-| Lab 1 | https://docs.google.com/document/d/1vtYlqgI2a4dl8QZcOM_5dX60jl6MhDn5w2cXu4fyqHA/edit?usp=sharing |
-| Lab 2 | https://docs.google.com/document/d/1om_9G98FlEn59QgyA8rxmZpEz1ys2JRl5T8UrRHiEac/edit?usp=sharing |
-| Lab 3 | https://docs.google.com/document/d/1L62g2QDW9PyMZij7TzeEVbGYJHqhT6DqCXgm5TfmgQ4/edit?usp=sharing |
-| Lab 4 | https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing |
-| Lab 5 | https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing |
+| Lab | Document Link | PDF File |
+|-----|---------------|----------|
+| Lab 1 | [Lab 1](https://docs.google.com/document/d/1vtYlqgI2a4dl8QZcOM_5dX60jl6MhDn5w2cXu4fyqHA/edit?usp=sharing) | [Lab 1 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/Lab%201%20Report.pdf) |
+| Lab 2 | [Lab 2](https://docs.google.com/document/d/1om_9G98FlEn59QgyA8rxmZpEz1ys2JRl5T8UrRHiEac/edit?usp=sharing) | [Lab 2 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/Lab%202_%20Secure%20%26%20Scalable%20VLAN%20Design.pdf) |
+| Lab 3 | [Lab 3](https://docs.google.com/document/d/1L62g2QDW9PyMZij7TzeEVbGYJHqhT6DqCXgm5TfmgQ4/edit?usp=sharing) | [Lab 3 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/Lab%203%20%E2%80%94%20MIME%20File%20Transfer%20over%20Router-on-a-Stick%20with%20Wireshark%20Analysis.pdf) |
+| Lab 4 | [Lab 4](https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing) | [Lab 4 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/LAB%204%20Simulated%20Internet%26%20Private%20LANs%20with%20Stateful%20vs%20Stateless%20Services.pdf) |
+| Lab 5 | [Lab 5](https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing) | [Lab 5 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/LAB%204%20Simulated%20Internet%26%20Private%20LANs%20with%20Stateful%20vs%20Stateless%20Services.pdf) |
 
 ---
 
@@ -47,13 +47,17 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 ## 📜 Certificate
 
-**Pre1 Computer Networks – Getting Started with Cisco Packet Tracer**
+Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
+
+<img src ="https://raw.githubusercontent.com/Nattha-nan/Network-Portfolio/9c1b7ec29aaa5ec56e40d08b8aa06f9e38c53b6c/image/certificate_natthanan-bo-kkumail-com.pdf" style="width: 80%; height: auto;"/>
 
 ---
 
 ## 📝 Checkpoint Exam
 
 These are the scores from all the Checkpoint Exams taken at the Cisco Networking Academy.
+
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/6b781f60056a9bc6db7436cfe0bf905bd496818a/image/Checkpoint%20Exam.png" style="width: 80%; height: auto;"/>
 
 ---
 
