@@ -1,7 +1,9 @@
 # Network-Portfolio
 นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 sec.1
 
-# Portfolio – Computer Networks & Network Programming
+Email : natthanan.bo@kkumail.com
+
+# Portfolio – Networks
 
 This repository contains my assignments, labs, projects, and certificates related to Computer Networks and Network Programming.
 
@@ -49,7 +51,7 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
 
-<img src ="https://raw.githubusercontent.com/Nattha-nan/Network-Portfolio/9c1b7ec29aaa5ec56e40d08b8aa06f9e38c53b6c/image/certificate_natthanan-bo-kkumail-com.pdf" style="width: 80%; height: auto;"/>
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/ca0743b4a83a1110e7a3d2dcbf1bbe53e33adbbc/image/certificate.png" style="width: 80%; height: auto;"/>
 
 ---
 
@@ -61,7 +63,3 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 
 ---
 
-## 👤 Author
-
-**Natthanan Boodsadee**  
-Computer Networks / Network Programming
