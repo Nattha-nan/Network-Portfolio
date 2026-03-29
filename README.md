@@ -47,13 +47,17 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 ## 📜 Certificate
 
-**Pre1 Computer Networks – Getting Started with Cisco Packet Tracer**
+Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
+
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/6b781f60056a9bc6db7436cfe0bf905bd496818a/image/certificate_natthanan-bo-kkumail-com.pdf" style="width: 80%; height: auto;"/>
 
 ---
 
 ## 📝 Checkpoint Exam
 
 These are the scores from all the Checkpoint Exams taken at the Cisco Networking Academy.
+
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/6b781f60056a9bc6db7436cfe0bf905bd496818a/image/Checkpoint%20Exam.png" style="width: 80%; height: auto;"/>
 
 ---
 
