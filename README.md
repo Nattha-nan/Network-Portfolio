@@ -11,10 +11,10 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 | Assignment | Document Link | PDF File |
 |-----------|---------------|----------|
-| Essay | https://docs.google.com/document/d/1JV9S-nem8Yh6NNtPzssQHXAGxmui8CTheAEoF0_GUco/edit?usp=sharing | - |
-| Assignment 2 (Topology) | https://docs.google.com/document/d/1R7LLNoZ0NXk4MEfzwQXmQh56v_3Wkd-fE12EuVDecIM/edit?usp=sharing | - |
-| Assignment 3 (Not Simple) | https://docs.google.com/document/d/11Ki3UfJ_93h6tWZFWwPnmqbDpsPUor3YYq6pJAZ0Gt0/edit?usp=sharing | - |
-| Assignment 4 (TCP-UDP) | https://docs.google.com/document/d/1Hh0BoJTWSq_3GOx9M2MRKap7qGlYfwlQouAtwDVdk2E/edit?usp=sharing | - |
+| Essay | [personal essay](https://docs.google.com/document/d/1JV9S-nem8Yh6NNtPzssQHXAGxmui8CTheAEoF0_GUco/edit?usp=sharing) | [personal essay](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/personal%20essay.pdf) |
+| Assignment 2 (Topology) | [Topology](https://docs.google.com/document/d/1R7LLNoZ0NXk4MEfzwQXmQh56v_3Wkd-fE12EuVDecIM/edit?usp=sharing) | [Topology](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/Assignment%202.pdf) |
+| Assignment 3 (Not Simple) | [Not Simple](https://docs.google.com/document/d/11Ki3UfJ_93h6tWZFWwPnmqbDpsPUor3YYq6pJAZ0Gt0/edit?usp=sharing) | [Not Simple](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/Assignment%203.pdf) |
+| Assignment 4 (TCP-UDP) | [TCP-UDP](https://docs.google.com/document/d/1Hh0BoJTWSq_3GOx9M2MRKap7qGlYfwlQouAtwDVdk2E/edit?usp=sharing) | [TCP-UDP](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Personal%20Assignment/Assignment%204.pdf) |
 
 ---
 
