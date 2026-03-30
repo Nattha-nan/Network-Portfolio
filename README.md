@@ -1,7 +1,9 @@
 # Network-Portfolio
-นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 sec.1
+นางสาวณัฐนันทน์ บุษดี รหัสนักศึกษา 673380037-1 Section 01
 
-# Portfolio – Computer Networks & Network Programming
+Email : natthanan.bo@kkumail.com
+
+## Portfolio – Networks
 
 This repository contains my assignments, labs, projects, and certificates related to Computer Networks and Network Programming.
 
@@ -25,8 +27,8 @@ This repository contains my assignments, labs, projects, and certificates relate
 | Lab 1 | [Lab 1](https://docs.google.com/document/d/1vtYlqgI2a4dl8QZcOM_5dX60jl6MhDn5w2cXu4fyqHA/edit?usp=sharing) | [Lab 1 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/Lab%201%20Report.pdf) |
 | Lab 2 | [Lab 2](https://docs.google.com/document/d/1om_9G98FlEn59QgyA8rxmZpEz1ys2JRl5T8UrRHiEac/edit?usp=sharing) | [Lab 2 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/Lab%202_%20Secure%20%26%20Scalable%20VLAN%20Design.pdf) |
 | Lab 3 | [Lab 3](https://docs.google.com/document/d/1L62g2QDW9PyMZij7TzeEVbGYJHqhT6DqCXgm5TfmgQ4/edit?usp=sharing) | [Lab 3 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/Lab%203%20%E2%80%94%20MIME%20File%20Transfer%20over%20Router-on-a-Stick%20with%20Wireshark%20Analysis.pdf) |
-| Lab 4 | [Lab 4](https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing) | [Lab 4 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/LAB%204%20Simulated%20Internet%26%20Private%20LANs%20with%20Stateful%20vs%20Stateless%20Services.pdf) |
-| Lab 5 | [Lab 5](https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing) | [Lab 5 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/LAB%204%20Simulated%20Internet%26%20Private%20LANs%20with%20Stateful%20vs%20Stateless%20Services.pdf) |
+| Lab 4 | [Lab 4](https://docs.google.com/document/d/1KmzmrqtmaWmJNcFg0ESWmcoffmTp2RtY8NoLxUFedNE/edit?usp=sharing) | [Lab 4 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/1b364cf8d57b4cebfdc0d444733930ebc8f8c458/Work%20files/Labs%201-5/LAB%204%20Simulated%20Internet%26%20Private%20LANs%20with%20Stateful%20vs%20Stateless%20Services.pdf) |
+| Lab 5 | [Lab 5](https://docs.google.com/document/d/1yV_dftiP-KKhuW3z2_VLPL1zQWvbU0OqBTiaUtjGmDU/edit?usp=sharing) | [Lab 5 pdf](https://github.com/Nattha-nan/Network-Portfolio/blob/6e5ac0737f770ae1f2b3636fc8d30983fda72ffe/Work%20files/Labs%201-5/LAB%205.pdf) |
 
 ---
 
@@ -47,9 +49,9 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 ## 📜 Certificate
 
-Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
+**From : Pre1 Computer Networks – Getting Started with Cisco Packet Tracer**
 
-<img src ="https://raw.githubusercontent.com/Nattha-nan/Network-Portfolio/9c1b7ec29aaa5ec56e40d08b8aa06f9e38c53b6c/image/certificate_natthanan-bo-kkumail-com.pdf" style="width: 80%; height: auto;"/>
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/ca0743b4a83a1110e7a3d2dcbf1bbe53e33adbbc/image/certificate.png" style="width: 80%; height: auto;"/>
 
 ---
 
@@ -61,7 +63,3 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 
 ---
 
-## 👤 Author
-
-**Natthanan Boodsadee**  
-Computer Networks / Network Programming
