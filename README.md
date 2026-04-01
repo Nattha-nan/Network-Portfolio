@@ -59,6 +59,12 @@ https://github.com/Nattha-nan/NetworkWeek.git
 
 ---
 
+**From :  CCNA: Introduction to Networks**
+
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/d539c9cc07dc7b76fc64c87a6b791ddeb1732e0b/image/CCNA.png" style="width: 80%; height: auto;"/>
+
+---
+
 ## 📝 Checkpoint Exam
 
 These are the scores from all the Checkpoint Exams taken at the Cisco Networking Academy.
