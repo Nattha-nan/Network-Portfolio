@@ -38,12 +38,16 @@ This repository contains my assignments, labs, projects, and certificates relate
 Project repository:  
 https://github.com/Nattha-nan/High-Mountain-Network.git
 
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/ab96c68fa1101d77be258bc496a6efe9f0d58ffc/image/High%20mountain%20network.png" style="width: 80%; height: auto;"/>
+
 ---
 
 ## 💻 Network Programming (Week 1–10)
 
 Repository:  
 https://github.com/Nattha-nan/NetworkWeek.git
+
+<img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/ab96c68fa1101d77be258bc496a6efe9f0d58ffc/image/Week.png" style="width: 80%; height: auto;"/>
 
 ---
 
@@ -62,4 +66,12 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 <img src ="https://github.com/Nattha-nan/Network-Portfolio/blob/6b781f60056a9bc6db7436cfe0bf905bd496818a/image/Checkpoint%20Exam.png" style="width: 80%; height: auto;"/>
 
 ---
+
+## 🚩 สิ่งที่ได้รับจากการเรียน Computer Networks
+
+จากการเรียนวิชา Computer Networks ทำให้เข้าใจหลักการทำงานของเครือข่ายคอมพิวเตอร์ เข้าใจการทำงานของระบบเครือข่ายคอมพิวเตอร์ทั้งในด้านทฤษฎีและปฏิบัติ ตั้งแต่พื้นฐานของการสื่อสารข้อมูล การทำงานของโปรโตคอลต่าง ๆ เช่น TCP และ UDP รวมถึงโครงสร้างของเครือข่ายแบบ Client–Server และ Peer-to-Peer
+
+ได้เรียนรู้การกำหนด IP Address, Subnet, Routing และการตั้งค่าอุปกรณ์เครือข่าย เช่น Router และ Switch ในโปรแกรม Cisco Packet Tracer รวมถึงการทดสอบการเชื่อมต่อเครือข่ายด้วยคำสั่งต่าง ๆ เช่น ping และ tracert
+
+นอกจากนี้ยังได้ฝึกเขียนโปรแกรม Network Programming ด้วยภาษา Python เช่น การสร้าง Socket, การสื่อสารแบบ TCP/UDP, การส่งข้อความระหว่าง Client และ Server และการจำลองการทำงานของเครือข่ายหลายรูปแบบ
 
